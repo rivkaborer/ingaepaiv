@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gooshiugh.07111301.com/sitemap.xml
